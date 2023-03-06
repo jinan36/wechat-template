@@ -15,3 +15,5 @@ node_modules/
 
 # Wechat
 miniprogram_npm/
+
+project.private.config.json
