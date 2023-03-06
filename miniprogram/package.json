@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "qs": "^6.11.0",
     "tdesign-miniprogram": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.7"
   }
 }
