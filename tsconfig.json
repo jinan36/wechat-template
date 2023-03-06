@@ -19,7 +19,10 @@
     "lib": ["ES6"],
     "typeRoots": [
       "./typings"
-    ]
+	],
+	"paths": {
+		"tdesign-miniprogram/*":["./miniprogram/miniprogram_npm/tdesign-miniprogram/*"]
+	}
   },
   "include": [
     "./**/*.ts"
