@@ -20,6 +20,4 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
-  <van-button type="primary">按钮</van-button>
-  <van-switch checked="{{ checked }}" bind:change="onChange" />
 </view>
